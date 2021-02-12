@@ -4,3 +4,13 @@
   box-sizing: border-box;
   color: #6c6b6b;
 }
+
+.fab{
+  font-size: 32px;
+}
+
+.position{
+  position:absolute;
+  right: 40px;
+  top: 100px;
+}
